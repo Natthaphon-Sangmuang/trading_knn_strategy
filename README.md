@@ -141,26 +141,6 @@ _Multi-asset comparison results table_
 - `initial_capital`: Starting capital (default: 10000)
 - `commission`: Commission rate per trade (default: 0.001 = 0.1%)
 
-## Asset Symbols
-
-### Stocks
-
-- SPY, QQQ, AAPL, MSFT, TSLA, etc.
-
-### Crypto
-
-- BTC-USD, ETH-USD, BNB-USD, etc.
-
-### Commodities
-
-- GC=F (Gold), CL=F (Oil), SI=F (Silver)
-
-### Forex
-
-- EURUSD=X, GBPUSD=X, USDJPY=X
-
-## Strategy Details
-
 ### Algorithm
 
 - Uses scikit-learn's NearestNeighbors for pattern recognition
